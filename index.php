@@ -43,7 +43,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Register as a Donor</h5>
                         <p class="card-text">Help save lives by donating blood today.</p>
-                        <a href="registration.html" class="btn btn-danger">Register Now</a>
+                        <a href="registration.php" class="btn btn-danger">Register Now</a>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Request Blood</h5>
                         <p class="card-text">Need blood for a loved one? Request here.</p>
-                        <a href="request.html" class="btn btn-danger">Request Now</a>
+                        <a href="request.php" class="btn btn-danger">Request Now</a>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Contact Us</h5>
                         <p class="card-text">Get in touch with us for any inquiries.</p>
-                        <a href="contact.html" class="btn btn-danger">Contact Now</a>
+                        <a href="contact.php" class="btn btn-danger">Contact Now</a>
                     </div>
                 </div>
             </div>
